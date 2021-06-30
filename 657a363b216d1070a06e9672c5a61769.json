@@ -20,7 +20,7 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
+      "title":"More",
       "image":"https://1.bp.blogspot.com/-JcNsX_faVi8/XPo1U0jJzmI/AAAAAAAAAJY/p_5Z5nKZFREINrFb829pfcCSX6W_NQ9BwCLcBGAs/s640/Flora-Kemuning-Tidak-Sekadar-Harum.jpg",
       "link":"https://play.google.com/store/apps/developer?id=KEMUNING"
     }
@@ -29,45 +29,50 @@
   [
     {
       "id":1,
-      "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "name":"Cantik",
+      "image_url":"file:///android_asset/00.jpg",
+      "video_url":"00.mp4",
+      "voice_url":"00.mp3"
     },
     {
       "id":2,
-      "name":"Homescapes",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/home.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
+      "name":"Aisya",
+      "image_url":"file:///android_asset/01.webp",
+      "video_url":"01.mp4",
+      "voice_url":"01.mp3"    },
     {
       "id":3,
-      "name":"Minecraft",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/ludo.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
+      "name":"Desy",
+      "image_url":"file:///android_asset/02.jpg",
+      "video_url":"02.mp4",
+      "voice_url":"02.mp3"    },
     {
       "id":4,
-      "name":"Sonic the Hedgehog™ Classic",
-      "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"footbal",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+      "name":"Andrea",
+      "image_url":"file:///android_asset/03.jpg",
+      "video_url":"03.mp4",
+      "voice_url":"03.mp3"
     },
     {
       "id":5,
-      "name":"War Machines: Best Free Online War & Military Game",
-      "image_url":"file:///android_asset/machine.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "name":"Wirda",
+      "image_url":"file:///android_asset/04.jpg",
+      "video_url":"04.mp4",
+      "voice_url":"04.mp3"
     },
     {
       "id":6,
-      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "name":"Mutiara",
+      "image_url":"file:///android_asset/05.jpg",
+      "video_url":"05.mp4",
+      "voice_url":"05.mp3"
+    },
+    {
+      "id":7,
+      "name":"Bapak",
+      "image_url":"file:///android_asset/05.jpg",
+      "video_url":"06.mp4",
+      "voice_url":"06.mp3"
     }
   ]
 
