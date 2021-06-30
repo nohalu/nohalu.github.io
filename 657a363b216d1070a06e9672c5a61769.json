@@ -75,20 +75,6 @@
     },
     {
       "id": 8,
-      "name": "Bapak",
-      "image_url": "file:///android_asset/06.jpg",
-      "video_url": "v06",
-      "voice_url": "06.mp3"
-    },
-    {
-      "id": 7,
-      "name": "Bapak",
-      "image_url": "file:///android_asset/06.jpg",
-      "video_url": "v06",
-      "voice_url": "06.mp3"
-    },
-    {
-      "id": 8,
       "name": "Aurelie",
       "image_url": "file:///android_asset/07.jpg",
       "video_url": "v07",
