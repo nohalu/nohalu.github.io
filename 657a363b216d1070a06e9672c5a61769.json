@@ -34,14 +34,14 @@
     {
       "id": 2,
       "name": "Aisya",
-      "image_url": "file:///android_asset/01.webp",
+      "image_url": "file:///android_asset/01.jpg",
       "video_url": "v01",
       "voice_url": "01.mp3"
     },
     {
       "id": 3,
       "name": "Desy",
-      "image_url": "file:///android_asset/02.jpeg",
+      "image_url": "file:///android_asset/02.jpg",
       "video_url": "v02",
       "voice_url": "02.mp3"
     },
@@ -69,9 +69,59 @@
     {
       "id": 7,
       "name": "Bapak",
-      "image_url": "file:///android_asset/06.JPG",
+      "image_url": "file:///android_asset/06.jpg",
       "video_url": "v06",
       "voice_url": "06.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Bapak",
+      "image_url": "file:///android_asset/06.jpg",
+      "video_url": "v06",
+      "voice_url": "06.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Bapak",
+      "image_url": "file:///android_asset/06.jpg",
+      "video_url": "v06",
+      "voice_url": "06.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Aurelie",
+      "image_url": "file:///android_asset/07.jpg",
+      "video_url": "v07",
+      "voice_url": "07.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Mertua",
+      "image_url": "file:///android_asset/08.jpg",
+      "video_url": "v08",
+      "voice_url": "08.mp3"
+    },
+    {
+      "id": 10,
+      "name": "Ayah",
+      "image_url": "file:///android_asset/09.jpg",
+      "video_url": "v09",
+      "voice_url": "09.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Pacar",
+      "image_url": "file:///android_asset/10.jpg",
+      "video_url": "v10",
+      "voice_url": "10.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Sayang",
+      "image_url": "file:///android_asset/11.jpg",
+      "video_url": "v11",
+      "voice_url": "11.mp3"
     }
+    
   ]
 }
