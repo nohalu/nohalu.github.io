@@ -1,0 +1,49 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "ca-app-pub-1501991018191526/7708365093",
+      "admob_native": "ca-app-pub-1501991018191526/3667664840",
+      "startappid": "",
+      "select_ads": "APPLOVIN",
+      "select_backup_ads": "ADMOB",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "com.kemuning2020.fakecalllilnasx",
+      "interval": 1
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "More",
+      "image": "https://1.bp.blogspot.com/-JcNsX_faVi8/XPo1U0jJzmI/AAAAAAAAAJY/p_5Z5nKZFREINrFb829pfcCSX6W_NQ9BwCLcBGAs/s640/Flora-Kemuning-Tidak-Sekadar-Harum.jpg",
+      "link": "https://play.google.com/store/apps/developer?id=KEMUNING"
+    }
+  ],
+  "Item": [
+    {
+      "id": 1,
+      "name": "Lil Nas X 00",
+      "image_url": "file:///android_asset/v00.png",
+      "video_url": "v00",
+      "voice_url": "v00.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Lil Nas X 01",
+      "image_url": "file:///android_asset/v01.png",
+      "video_url": "v01",
+      "voice_url": "v01.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Lil Nas X 02",
+      "image_url": "file:///android_asset/v02.png",
+      "video_url": "v02",
+      "voice_url": "v02.mp3"
+    }
+  ]
+}
