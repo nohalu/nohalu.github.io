@@ -1,0 +1,56 @@
+{
+   "Ads":[
+      {
+         "status_app":"0",
+         "link_redirect":"https://play.google.com/store/apps/details?id=",
+         "admob_inter":"ca-app-pub-1501991018191526/5014014456",
+         "admob_native":"ca-app-pub-1501991018191526/7089798868",
+         "startappid":"",
+         "select_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN",
+         "fan_inter":"",
+         "fan_banner_native":"",
+         "fan_native":"",
+         "packagename":"com.aliendroid.fakecall10",
+         "interval":1
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"More",
+         "image":"https://1.bp.blogspot.com/-JcNsX_faVi8/XPo1U0jJzmI/AAAAAAAAAJY/p_5Z5nKZFREINrFb829pfcCSX6W_NQ9BwCLcBGAs/s640/Flora-Kemuning-Tidak-Sekadar-Harum.jpg",
+         "link":"https://play.google.com/store/apps/developer?id=KEMUNING"
+      }
+   ],
+   "Item":[
+      {
+         "id":1,
+         "name":"Bella Poarch 00",
+         "image_url":"file:///android_asset/v00.png",
+         "video_url":"v00",
+         "voice_url":"v00.mp3"
+      },
+      {
+         "id":5,
+         "name":"Bella Poarch 04",
+         "image_url":"file:///android_asset/v04.png",
+         "video_url":"v04",
+         "voice_url":"v04.mp3"
+      },
+      {
+         "id":6,
+         "name":"Bella Poarch 05",
+         "image_url":"file:///android_asset/v05.png",
+         "video_url":"v05",
+         "voice_url":"v05.mp3"
+      },
+      {
+         "id":8,
+         "name":"Bella Poarch 07",
+         "image_url":"file:///android_asset/v07.png",
+         "video_url":"v07",
+         "voice_url":"v07.mp3"
+      }
+   ]
+}
