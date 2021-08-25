@@ -1,0 +1,133 @@
+{
+   "Ads":[
+      {
+         "status_app":"0",
+         "link_redirect":"https://play.google.com/store/apps/details?id=",
+         "admob_inter":"ca-app-pub-1501991018191526/3238735100",
+         "admob_native":"ca-app-pub-1501991018191526/1734081741",
+         "startappid":"",
+         "select_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN",
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "fan_native":"YOUR_PLACEMENT_ID",
+         "packagename":"com.kemuning2020.vcsamapacarromantis",
+         "interval":2
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"More",
+         "image":"https://1.bp.blogspot.com/-JcNsX_faVi8/XPo1U0jJzmI/AAAAAAAAAJY/p_5Z5nKZFREINrFb829pfcCSX6W_NQ9BwCLcBGAs/s640/Flora-Kemuning-Tidak-Sekadar-Harum.jpg",
+         "link":"https://play.google.com/store/apps/developer?id=KEMUNING"
+      }
+   ],
+   "Item":[
+      {
+         "id":84,
+         "name":"Sayangku 84",
+         "image_url":"file:///android_asset/v84.png",
+         "video_url":"v84",
+         "voice_url":"v84.mp3"
+      },
+      {
+         "id":85,
+         "name":"Sayangku 85",
+         "image_url":"file:///android_asset/v85.png",
+         "video_url":"v85",
+         "voice_url":"v85.mp3"
+      },
+      {
+         "id":86,
+         "name":"Sayangku 86",
+         "image_url":"file:///android_asset/v86.png",
+         "video_url":"v86",
+         "voice_url":"v86.mp3"
+      },
+      {
+         "id":87,
+         "name":"Sayangku 87",
+         "image_url":"file:///android_asset/v87.png",
+         "video_url":"v87",
+         "voice_url":"v87.mp3"
+      },
+      {
+         "id":88,
+         "name":"Sayangku 88",
+         "image_url":"file:///android_asset/v88.png",
+         "video_url":"v88",
+         "voice_url":"v88.mp3"
+      },
+      {
+         "id":89,
+         "name":"Sayangku 89",
+         "image_url":"file:///android_asset/v89.png",
+         "video_url":"v89",
+         "voice_url":"v89.mp3"
+      },
+      {
+         "id":90,
+         "name":"Sayangku 90",
+         "image_url":"file:///android_asset/v90.png",
+         "video_url":"v90",
+         "voice_url":"v90.mp3"
+      },
+      {
+         "id":91,
+         "name":"Sayangku 91",
+         "image_url":"file:///android_asset/v91.png",
+         "video_url":"v91",
+         "voice_url":"v91.mp3"
+      },
+      {
+         "id":92,
+         "name":"Sayangku 92",
+         "image_url":"file:///android_asset/v92.png",
+         "video_url":"v92",
+         "voice_url":"v92.mp3"
+      },
+      {
+         "id":93,
+         "name":"Sayangku 93",
+         "image_url":"file:///android_asset/v93.png",
+         "video_url":"v93",
+         "voice_url":"v93.mp3"
+      },
+      {
+         "id":94,
+         "name":"Sayangku 94",
+         "image_url":"file:///android_asset/v94.png",
+         "video_url":"v94",
+         "voice_url":"v94.mp3"
+      },
+      {
+         "id":95,
+         "name":"Sayangku 95",
+         "image_url":"file:///android_asset/v95.png",
+         "video_url":"v95",
+         "voice_url":"v95.mp3"
+      },
+      {
+         "id":97,
+         "name":"Sayangku 97",
+         "image_url":"file:///android_asset/v97.png",
+         "video_url":"v97",
+         "voice_url":"v97.mp3"
+      },
+      {
+         "id":98,
+         "name":"Sayangku 98",
+         "image_url":"file:///android_asset/v98.png",
+         "video_url":"v98",
+         "voice_url":"v98.mp3"
+      },
+      {
+         "id":99,
+         "name":"Sayangku 99",
+         "image_url":"file:///android_asset/v99.png",
+         "video_url":"v99",
+         "voice_url":"v99.mp3"
+      }
+   ]
+}
